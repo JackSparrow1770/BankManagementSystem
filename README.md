@@ -106,10 +106,10 @@ Select One Option Below
 
 ## Future Enhancements
 
--Add a Graphical User Interface (GUI) using a library like Qt or wxWidgets.
--Implement multi-threading for concurrent account operations.
--Add encryption for secure storage of account data.
--Support internationalization for multiple languages.
+- Add a Graphical User Interface (GUI) using a library like Qt or wxWidgets.
+- Implement multi-threading for concurrent account operations.
+- Add encryption for secure storage of account data.
+- Support internationalization for multiple languages.
 
 ## License
 
@@ -117,5 +117,5 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## Author
 
-Fahad Siddique Faisal
-Developer passionate about C++ and software engineering.
+- Fahad Siddique Faisal
+- Developer passionate about C++ and software engineering.
